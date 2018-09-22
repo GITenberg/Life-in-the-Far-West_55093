@@ -1,0 +1,23 @@
+_repo: Life-in-the-Far-West_55093
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruxton, George Frederick Augustus
+    alias: Ruxton, George F. (George Frederick Augustus)
+    birthdate: 1820
+    deathdate: 1848
+    gutenberg_agent_id: '43724'
+    url: http://www.gutenberg.org/2009/agents/43724
+description: ''
+gutenberg_issued: '2017-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Life in the Far West
+url: http://www.gutenberg.org/ebooks/55093
