@@ -1,5 +1,8 @@
 _repo: Life-in-the-Far-West_55093
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55093-h/images/cover.jpg
 creator:
   author:
     agent_name: Ruxton, George Frederick Augustus
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '43724'
     url: http://www.gutenberg.org/2009/agents/43724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55093#Life-in-the-Far-West
 gutenberg_issued: '2017-07-11'
 gutenberg_type: Text
 identifiers:
